@@ -43,8 +43,8 @@ Para las especies Iris-versicolor e Iris-virginica, la tasa de coincidencia vari
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Resultados
+## Ejemplos de los resultados en porcentaje.
 
 <img width="326" height="137" alt="image" src="https://github.com/user-attachments/assets/b16267b0-baba-4b41-ab39-b21262084519">
 
-La visualización de las distribuciones de las flores, corroboró la capacidad del modelo de clustering para segmentar de manera efectiva las especies de acuerdo con sus características morfológicas. Este proyecto demuestra cómo un modelo simple de aprendizaje no supervisado puede ser una herramienta poderosa para descubrir patrones y estructuras subyacentes en conjuntos de datos.
+La visualización de las distribuciones de las flores, corroboró la capacidad del modelo de clustering para segmentar de  una manera generalmente efectiva las especies de acuerdo con sus características morfológicas. Este proyecto demuestra cómo un modelo simple de aprendizaje no supervisado puede ser una herramienta poderosa para descubrir patrones y estructuras subyacentes en conjuntos de datos.
