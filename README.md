@@ -28,7 +28,7 @@ Iris-virginica
 <img width="190" height="174" alt="image" src="https://github.com/user-attachments/assets/4b73cdeb-dba4-4514-a9d2-da235ae555df">
 
 ### Aclaración
-  La diferencia presente entre las diferentes imagenes acerca de la clasificación por clusteres se justifica que en cada iteración suelen cambiar un poco los clusteres agrupados, como se puede ver suele pasar mas entre los clusteres    0 y 1, pero está presente en todo el modelo, igualmente se puede apreciar las diferencias en el funcionamiento del modelo.
+  La diferencia presente entre las diferentes imagenes acerca de la clasificación por clusteres se justifica por el hecho que en cada iteración suelen cambiar un poco los clusteres agrupados, como se puede ser el caso entre los clusteres 0 y 1, pero está presente en todo el modelo, igualmente se puede apreciar las diferencias en el funcionamiento del modelo (solo cambia la ubicación de los clusteres).
 
 ## Conclusiones
 
